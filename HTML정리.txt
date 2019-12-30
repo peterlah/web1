@@ -1,0 +1,34 @@
+<h1>~<h6>제목설정
+<p></p>단락을 구분한다.
+<br>줄바꿈
+<img src="주소" [width="100%"]> 이미지 삽입
+	unsplash.com - 저작권 x
+
+목록 = list
+<ul>
+	<li>
+	</li>
+</ul>
+부모자식관계 같이 쓰인다.
+<ul> 순서가 없는 리스트 unordered list
+<ol> 넘버링이되는 순서가 있는 리스트 ordered list
+
+<meta charset="utf-8"> 본문의 메타정보를 입력
+<title>WEB1 - html</title> 웹페이지의 제목
+
+<!doctype html>관용적으로 써준다.
+<html>이모든 정보는 이html테그 안에 있어야한다.
+	<head>헤드정보는 이안에 있어야한다.
+	</head>
+	<body>본문의 내용은 이안에 있어야한다.
+	</body>
+</html>
+
+**********중요
+<a></a> 링크
+<a href="링크될주소" target="_blank" title="html5 specification">내용</a>
+target="_blank"  새탭에서 열기
+title="html5 specification" 마우스를 가저다 댔을때 나올 설명
+
+<strong><strong>굵은줄로
+<u></u>밑줄
